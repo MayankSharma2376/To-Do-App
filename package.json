@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "This is a To-do App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayankSharma2376/To-Do-App.git"
+  },
+  "author": "Mayank Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayankSharma2376/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/MayankSharma2376/To-Do-App#readme"
+}
